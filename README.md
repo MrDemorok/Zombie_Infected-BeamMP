@@ -1,3 +1,5 @@
+***[Guide on YT / Poradnik na YT](https://youtu.be/bueUAIbEX3c?si=MbPNczj1Z3IxQvZl)***
+
 # English:
 
 ## BeamMP Outbreak/Infection
