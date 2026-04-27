@@ -6,7 +6,7 @@
 
 This is a recreation of the Infection game mode from Dirt 3 for BeamMP
 
-## BeamMP Installation
+## Mod Installation
 
 1. Download the newest version from the release page
 2. Open the zip file and place the contents of the Client folder in a .zip folder named OutBreak and place it in the “Resources/Client” folder on the server, and place the Server files in the “Resources/Server” folder.
@@ -33,7 +33,7 @@ This is a recreation of the Infection game mode from Dirt 3 for BeamMP
 
 Jest to odtworzenie trybu gry Infection z gry Dirt 3 dla BeamMP.
 
-## Instalacja BeamMP
+## Instalacja moda
 
 1. Pobierz najnowszą wersję ze strony wydania.
 2. Otwórz plik zip i umieść zawartość folderu Client w folderze .zip o nazwie OutBreak, a następnie umieść go w folderze „Resources/Client” na serwerze. Pliki serwera umieść w folderze „Resources/Server”.
